@@ -1,7 +1,9 @@
 <?php
 #This is the primary header file to be loaded on all webpages.
 
-#include db_connect.php;
+//include "../db_connect.php";
+
+
 ?>
 <html>
 	<head>
