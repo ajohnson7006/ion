@@ -13,7 +13,8 @@ include "./header.php";
 		<!-- Banner -->
 			<section id="banner">
 				<div class="inner">
-					<h2>The Tech and Travel Group</h2>
+					<h2>Hi Rina!!!!</h2>
+					<!--<h2>The Tech and Travel Group</h2>-->
 					<p>Where A Great Tag Line Collaborates </p>
 					<ul class="actions">
 						<li><a href="#content" class="button big special">Sign Up</a></li>
@@ -44,7 +45,7 @@ include "./header.php";
 						<div class="4u">
 							<section class="special box">
 								<i class="icon fa-refresh major"></i>
-								<h3><a href="#" > Andrew Johnson </a></h3>
+								<h3><a href="#"> Andrew Johnson </a></h3>
 								<p>
 									Short Bio About Andrew </br>
 								  Short Bio About Andrew </br>
@@ -56,6 +57,7 @@ include "./header.php";
 							<section class="special box">
 								<i class="icon fa-cog major"></i>
 								<h3>Person Three</h3>
+
 								<p>
 									Short Bio About Person Three </br>
 								  Short Bio About Person Three </br>
