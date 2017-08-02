@@ -13,7 +13,7 @@ include "./header.php";
 		<!-- Banner -->
 			<section id="banner">
 				<div class="inner">
-					<h2>This is a Code Merge.</h2>
+					<h2>Change</h2>
 					<!--<h2>The Tech and Travel Group</h2>-->
 					<p>Where A Great Tag Line Collaborates </p>
 					<ul class="actions">
