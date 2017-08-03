@@ -56,69 +56,58 @@ echo '
 </html>
 
 '; //End Echo Statement of the header code.
-
 } //End website_header function.
 
-
-function TechTravel (){
-$BioTravelComments = shift;
+function website_footer(){
   echo '
-  <hr class="major" />
-  <div class="row">
-    <div class="6u">
-      <section class="special">
-        <a href="#" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
-        <h3>Technology</h3>
-        <p>
-          Bio About Technology </br>
-          Bio About Technology </br>
-          Bio About Technology </br>
-          Bio About Technology </br>
-        </p>
-        <ul class="actions">
-          <li><a href="#" class="button alt">Learn More</a></li>
+  <!-- Footer -->
+    <footer id="footer">
+      <div class="container">
+        <div class="row double">
+          <div class="6u">
+            <div class="row collapse-at-2">
+              <div class="6u">
+                <h3>Accumsan</h3>
+                <ul class="alt">
+                  <li><a href="#">Nascetur nunc varius</a></li>
+                  <li><a href="#">Vis faucibus sed tempor</a></li>
+                </ul>
+              </div>
+              <div class="6u">
+                <h3>Faucibus</h3>
+                <ul class="alt">
+                  <li><a href="#">Nascetur nunc varius</a></li>
+                  <li><a href="#">Vis faucibus sed tempor</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="6u">
+            <h2>Aliquam Interdum</h2>
+            <p>
+              This is a paragraph with something to do about the company. </br>
+              This is a paragraph with something to do about the company. </br>
+              This is a paragraph with something to do about the company. </br>
+            </p>
+            <ul class="icons">
+          <!--
+              <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+              <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+              <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+              <li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+              <li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+            -->
+            </ul>
+          </div>
+        </div>
+        <ul class="copyright">
+          <li>&copy; The Tech and Travel Group 2017. All rights reserved.</li>
         </ul>
-      </section>
-    </div>
-    <div class="6u">
-      <section class="special">
-        <a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-        <h3>Travel Function</h3>
-        <p>
-          <?php
-          if isset($BioTravelComments){
-            echo $BioTravelComments;
-          } else
-            echo "WHY ARE YOU NOT WORKING?!?!";
-          }
-          echo "I HATE YOU.";
-        ?>
-        </br>
-          Bio About Travel </br>
-          Bio About Travel </br>
-          Bio About Travel </br>
-        </p>
-        <ul class="actions">
-          <li><a href="#" class="button alt">Learn More</a></li>
-        </ul>
-      </section>
-    </div>
-  </div>
-</div>
+      </div>
+    </footer>
 ';
 }
 
-
-function test(){
-  $BioTravelComments = $_SESSION['BioTravelComments'];
-  //if isset($BioTravelComments){
-  if (1==1){
-    echo $BioTravelComments;
-  } else {
-    echo "WHY ARE YOU NOT WORKING?!?!";
-  }
-  echo "I HATE YOU.";
-}
 
 
 /*

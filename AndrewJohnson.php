@@ -125,7 +125,7 @@ website_header();
 
 		<!-- Footer -->
 <?php
-	include "./footer.php"
+	website_footer();
 ?>
 
 	</body>
