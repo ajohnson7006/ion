@@ -2,8 +2,6 @@
 #This is the primary header file to be loaded on all webpages.
 
 //include "../db_connect.php";
-
-
 ?>
 <html>
 	<head>
@@ -25,7 +23,7 @@
 
 <!-- Header -->
   <header id="header" class="skel-layers-fixed">
-    <h1><a href="#">Ion</a></h1>
+    <h1><a href="#">TGG</a></h1>
     <nav id="nav">
       <ul>
         <li><a href="index.php">Home</a></li>

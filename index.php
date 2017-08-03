@@ -1,8 +1,6 @@
 <!DOCTYPE HTML>
 <!--
-	Ion by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+Details about this page go here.
 -->
 <?php
 include "./header.php";
@@ -13,8 +11,7 @@ include "./header.php";
 		<!-- Banner -->
 			<section id="banner">
 				<div class="inner">
-					<h2>This is a Code Merge. - Attempt 2. </h2>
-					<!--<h2>The Tech and Travel Group</h2>-->
+					<h2>The Tech and Travel Group</h2>
 					<p>Where A Great Tag Line Collaborates </p>
 					<ul class="actions">
 						<li><a href="#content" class="button big special">Sign Up</a></li>
@@ -26,7 +23,7 @@ include "./header.php";
 	<!-- Zero -->
 			<section id="one" class="wrapper style1">
 				<header class="major">
-					<h2>Who We Are</h2>
+					<h2>Meeting The Team Members</h2>
 					<p>&nbsp;</p>
 				</header>
 				<div class="container">
@@ -68,43 +65,6 @@ include "./header.php";
 					</div>
 				</div>
 			</section>
-
-<?php
-/*
-		<!-- One -->
-			<section id="one" class="wrapper style1">
-				<header class="major">
-					<h2>This is the first header in Class Major</h2>
-					<p>Tempus adipiscing commodo ut aliquam blandit</p>
-				</header>
-				<div class="container">
-					<div class="row">
-						<div class="4u">
-							<section class="special box">
-								<i class="icon fa-area-chart major"></i>
-								<h3>Justo placerat</h3>
-								<p>Eu non col commodo accumsan ante mi. Commodo consectetur sed mi adipiscing accumsan ac nunc tincidunt lobortis.</p>
-							</section>
-						</div>
-						<div class="4u">
-							<section class="special box">
-								<i class="icon fa-refresh major"></i>
-								<h3>Blandit quis curae</h3>
-								<p>Eu non col commodo accumsan ante mi. Commodo consectetur sed mi adipiscing accumsan ac nunc tincidunt lobortis.</p>
-							</section>
-						</div>
-						<div class="4u">
-							<section class="special box">
-								<i class="icon fa-cog major"></i>
-								<h3>Amet sed accumsan</h3>
-								<p>Eu non col commodo accumsan ante mi. Commodo consectetur sed mi adipiscing accumsan ac nunc tincidunt lobortis.</p>
-							</section>
-						</div>
-					</div>
-				</div>
-			</section>
-*/
-?>
 
 		<!-- Two -->
 			<section id="two" class="wrapper style2">
@@ -148,6 +108,8 @@ include "./header.php";
 				</div>
 			</section>
 
+<?php
+/* This section of the code is not used at this time. 
 		<!-- Three -->
 			<section id="three" class="wrapper style1">
 				<div class="container">
@@ -181,6 +143,8 @@ include "./header.php";
 					</div>
 				</div>
 			</section>
+*/
+?>
 
 			<?php
 			include "./footer.php";
