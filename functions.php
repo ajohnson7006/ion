@@ -17,8 +17,6 @@ areas of the code that should remain the same across the site.
 
 //This is the main header for all the pages in the website.
 function website_header(){
-session_start(); //Starting the Session for all Pages. 
-
 //Begin Header code
 echo '
 <html>

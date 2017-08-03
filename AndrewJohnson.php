@@ -87,12 +87,40 @@ website_header();
 						</section>
 						</div>
 					</div>
-					<?php
-						$_SESSION['BioTravelComments'] = $BioTravelComments;
-						TechTravel();
-						?> <!--Function called from functions.php -->
-
-
+					<hr class="major" />
+				  <div class="row">
+				    <div class="6u">
+				      <section class="special">
+				        <a href="#" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
+				        <h3>Technology</h3>
+				        <p>
+				          Bio About Technology </br>
+				          Bio About Technology </br>
+				          Bio About Technology </br>
+				          Bio About Technology </br>
+				        </p>
+				        <ul class="actions">
+				          <li><a href="#" class="button alt">Learn More</a></li>
+				        </ul>
+				      </section>
+				    </div>
+				    <div class="6u">
+				      <section class="special">
+				        <a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
+				        <h3>Travel Function</h3>
+				        <p>
+				        </br>
+				          Bio About Travel </br>
+				          Bio About Travel </br>
+				          Bio About Travel </br>
+				        </p>
+				        <ul class="actions">
+				          <li><a href="#" class="button alt">Learn More</a></li>
+				        </ul>
+				      </section>
+				    </div>
+				  </div>
+				</div>
 			</section>
 
 		<!-- Footer -->
