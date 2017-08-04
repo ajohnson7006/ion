@@ -3,7 +3,12 @@
 Details about this page go here.
 -->
 <?php
-include "./header.php";
+//functions.php is the primary file for functions.
+//It should be included into every page.
+include "./functions.php";
+
+
+website_header();
 ?>
 
 <html>
@@ -14,8 +19,10 @@ include "./header.php";
 					<h2>The Tech and Travel Group</h2>
 					<p>Where A Great Tag Line Collaborates </p>
 					<ul class="actions">
+<!--
 						<li><a href="#content" class="button big special">Sign Up</a></li>
 						<li><a href="#elements" class="button big alt">Learn More</a></li>
+-->
 					</ul>
 				</div>
 			</section>
@@ -28,37 +35,59 @@ include "./header.php";
 				</header>
 				<div class="container">
 					<div class="row">
-						<div class="4u">
+						<div class="2u">
 							<section class="special box">
-								<i class="icon fa-area-chart major"></i>
-								<h3>Person One</h3>
+<!--								<a href="#" class="image fit"><img src="images/pic01.jpg" alt="" /></a> -->
+								<h3></h3>
 								<p>
-									Short Bio About Person One </br>
-								  Short Bio About Person One </br>
-									Short Bio About Person One </br> &nbsp;
+									</br>
+								 	</br>
+									</br>
+								  </br>
+									</br>
+								  </br>
+									</br>
+								  </br>
+									</br>
+									</br>
+									</br>
+									</br>
+									</br>
+									</br>
 								</p>
 							</section>
 						</div>
-						<div class="4u">
+						<div class="8u">
 							<section class="special box">
-								<i class="icon fa-refresh major"></i>
+								<!--<i class="icon fa-refresh major"></i>-->
+								<a href="#" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
 								<h3><a href="#"> Andrew Johnson </a></h3>
 								<p>
-									Short Bio About Andrew </br>
-								  Short Bio About Andrew </br>
-									Short Bio About Andrew </br> &nbsp;
+									Andrew has been working in the technical sector for over ten years
+								  and specializes in Software Quality Assurance, Computer Network Infrastructure,
+									Leadership,	and Communication at all levels. He is deeply experienced in
+									international travel, multi-national team colorbration, and *SOMETHING ELSE*.
 								</p>
 							</section>
 						</div>
-						<div class="4u">
+						<div class="2u">
 							<section class="special box">
-								<i class="icon fa-cog major"></i>
-								<h3>Person Three</h3>
-
+								<h3></h3>
 								<p>
-									Short Bio About Person Three </br>
-								  Short Bio About Person Three </br>
-									Short Bio About Person Three </br> &nbsp;
+									</br>
+								 	</br>
+									</br>
+								  </br>
+									</br>
+								  </br>
+									</br>
+								  </br>
+									</br>
+									</br>
+									</br>
+									</br>
+									</br>
+									</br>
 								</p>
 							</section>
 						</div>
@@ -70,7 +99,7 @@ include "./header.php";
 			<section id="two" class="wrapper style2">
 				<header class="major">
 					<h2>Where The Technology Meets The Travel</h2>
-					<p>Amet nisi nunc lorem accumsan</p>
+					<!-- <p>Amet nisi nunc lorem accumsan</p> -->
 				</header>
 				<div class="container">
 					<div class="row">
@@ -79,10 +108,12 @@ include "./header.php";
 								<a href="#" class="image fit"><img src="images/pic01.jpg" alt="" /></a>
 								<h3>Technology</h3>
 								<p>
-									Bio About Technology </br>
-									Bio About Technology </br>
-									Bio About Technology </br>
-									Bio About Technology </br>
+									Today the world is known for advancing technology with its ability to
+									achieve things once only drembt about. <br>
+
+									Next Comment <br>
+									Next Comment <br>
+
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button alt">Learn More</a></li>
@@ -94,10 +125,14 @@ include "./header.php";
 								<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
 								<h3>Travel</h3>
 								<p>
-									Bio About Travel </br>
-									Bio About Travel </br>
-									Bio About Travel </br>
-									Bio About Travel </br>
+									Comment about experiencing the world and keeping the ability to work from anywhere. <br>
+									Comment about working together for the common goal of connecting all people. <br>
+
+<!--									With these advances in technology, the majority of the world is now
+									well intertwined to a spider web of resources. Unfortunatley, there
+									are many countries, cities, and neighborhoods that are yet to join the
+									major players in the connected world.
+-->
 								</p>
 								<ul class="actions">
 									<li><a href="#" class="button alt">Learn More</a></li>
@@ -109,7 +144,7 @@ include "./header.php";
 			</section>
 
 <?php
-/* This section of the code is not used at this time. 
+/* This section of the code is not used at this time.
 		<!-- Three -->
 			<section id="three" class="wrapper style1">
 				<div class="container">
@@ -147,7 +182,7 @@ include "./header.php";
 ?>
 
 			<?php
-			include "./footer.php";
+			website_footer();
 			?>
 
 	</body>

@@ -49,7 +49,7 @@ echo '
         <!-- <li><a href="left-sidebar.html">Left Sidebar</a></li>    -->
         <!-- <<li><a href="right-sidebar.html">Right Sidebar</a></li> -->
         <!-- <li><a href="no-sidebar.html">No Sidebar</a></li>        -->
-        <li><a href="#" class="button special">Sign Up</a></li>
+        <!-- <li><a href="#" class="button special">Sign Up</a></li>  -->
       </ul>
     </nav>
   </header>
@@ -60,52 +60,52 @@ echo '
 
 function website_footer(){
   echo '
-  <!-- Footer -->
-    <footer id="footer">
-      <div class="container">
-        <div class="row double">
-          <div class="6u">
-            <div class="row collapse-at-2">
-              <div class="6u">
-                <h3>Accumsan</h3>
-                <ul class="alt">
-                  <li><a href="#">Nascetur nunc varius</a></li>
-                  <li><a href="#">Vis faucibus sed tempor</a></li>
-                </ul>
-              </div>
-              <div class="6u">
-                <h3>Faucibus</h3>
-                <ul class="alt">
-                  <li><a href="#">Nascetur nunc varius</a></li>
-                  <li><a href="#">Vis faucibus sed tempor</a></li>
-                </ul>
+    <!-- Footer -->
+      <footer id="footer">
+        <div class="container">
+          <!--
+          <div class="row double">
+            <div class="6u">
+              <div class="row collapse-at-2">
+                <div class="6u">
+                  <h3>Topic One</h3>
+                  <ul class="alt">
+                    <li><a href="#">Link One</a></li>
+                  </ul>
+                </div>
+                <div class="6u">
+                  <h3>Topic Two</h3>
+                  <ul class="alt">
+                    <li><a href="#">Link Two</a></li>
+                  </ul>
+                </div>
               </div>
             </div>
+            <div class="6u">
+              <h2>Aliquam Interdum</h2>
+              <p>
+                This is a paragraph with something to do about the company. </br>
+                This is a paragraph with something to do about the company. </br>
+                This is a paragraph with something to do about the company. </br>
+              </p>
+              <ul class="icons">
+
+                <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                <li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
+
+              </ul>
+            </div>
           </div>
-          <div class="6u">
-            <h2>Aliquam Interdum</h2>
-            <p>
-              This is a paragraph with something to do about the company. </br>
-              This is a paragraph with something to do about the company. </br>
-              This is a paragraph with something to do about the company. </br>
-            </p>
-            <ul class="icons">
-          <!--
-              <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-              <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-              <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-              <li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-              <li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
-            -->
-            </ul>
-          </div>
+          -->
+          <ul class="copyright">
+            <li>&copy; The Tech and Travel Group 2017. All rights reserved.</li>
+          </ul>
         </div>
-        <ul class="copyright">
-          <li>&copy; The Tech and Travel Group 2017. All rights reserved.</li>
-        </ul>
-      </div>
-    </footer>
-';
+      </footer>
+  ';
 }
 
 
