@@ -45,7 +45,7 @@ echo '
         <li><a href="index.php">Home</a></li>
         <li><a href="#">About Us</a></li>
         <li><a href="#">Services</a></li>
-        <li><a href="#">Contact Us</a></li>
+        <li><a href="mailto:TheTechandTravelGroup@gmail.com?Subject=Initial%20Contact" target="_top">Contact Us</a></li>
         <!-- <li><a href="left-sidebar.html">Left Sidebar</a></li>    -->
         <!-- <<li><a href="right-sidebar.html">Right Sidebar</a></li> -->
         <!-- <li><a href="no-sidebar.html">No Sidebar</a></li>        -->
