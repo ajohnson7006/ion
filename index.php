@@ -1,8 +1,9 @@
 <!DOCTYPE HTML>
-<!--
-This is the main landing page for the website. It contains the
-high level summary of what the company is about.
--->
+<?php
+//Information About the Page.
+//This is the main landing page for the website. It contains the
+//high level summary of what the company is about.
+?>
 
 
 <?php // Start page content.
