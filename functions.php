@@ -1,5 +1,7 @@
 <!DOCTYPE HTML>
-<!--
+
+<?php
+/*
 	Ion by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
@@ -8,11 +10,11 @@ This page is designed to contain all the functions used within the page.
 The idea is to keep the page uniform as much as possible and prevent deviation from
 areas of the code that should remain the same across the site.
 
--->
+*/
 
 
 
-<?php
+
 
 
 //This is the main header for all the pages in the website.
