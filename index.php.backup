@@ -31,38 +31,62 @@ website_header(); //This is the function to control all the header information.
 	<!-- Zero -->
 			<section id="one" class="wrapper style1">
 				<header class="major">
-					<h2>What We Stand For</h2>
+					<h2>Meeting The Team Members</h2>
 					<p>&nbsp;</p>
 				</header>
 				<div class="container">
 					<div class="row">
-						<div class="4u">
+						<div class="3u">
 							<section class="special box">
 <!--								<a href="#" class="image fit"><img src="images/pic01.jpg" alt="" /></a> -->
-								<i class="icon fa-area-chart major"></i>
-								<h3>Item One</h3>
+								<h3></h3>
 								<p>
-									Item One
+									</br>
+								 	</br>
+									</br>
+								  </br>
+									</br>
+								  </br>
+									</br>
+								  </br>
+									</br>
+									</br>
+									</br>
+									</br>
 								</p>
 							</section>
 						</div>
-						<div class="4u">
+						<div class="6u">
 							<section class="special box">
 								<!--<i class="icon fa-refresh major"></i>-->
 								<!-- <a href="#" class="image fit"><img src="images/something.jpg" alt=""/></a> -->
 								<i class="icon fa-area-chart major"></i>
-								<h3><a href="#"> Item Two </a></h3>
+								<h3><a href="#"> Andrew Johnson </a></h3>
 								<p>
-									Item Two
+									Andrew has been working in the technical sector for over ten years
+								  and specializes in Software Quality Assurance, Computer Network Infrastructure,
+									Leadership,	and Communication at all levels. He is deeply experienced in
+									international travel, multi-national team collaboration, and around
+									the clock efforts.
 								</p>
 							</section>
 						</div>
-						<div class="4u">
+						<div class="3u">
 							<section class="special box">
-								<i class="icon fa-area-chart major"></i>
-								<h3>Item Three</h3>
+								<h3></h3>
 								<p>
-									Item Three
+									</br>
+								 	</br>
+									</br>
+								  </br>
+									</br>
+								  </br>
+									</br>
+								  </br>
+									</br>
+									</br>
+									</br>
+									</br>
 								</p>
 							</section>
 						</div>
@@ -87,9 +111,9 @@ website_header(); //This is the function to control all the header information.
 								<h3>Technology</h3>
 								<p>
 									Today the world is known for advancing technology with its ability to
-									achieve ideas once only dreamt about. Currently, The Tech and Travel Group
+									achieve ideas once only drembt about. Currently, The Tech and Travel Group
 									specializes in Software Quality Assurance Engineering, Global Team Leadership,
-									and several other diverse skill sets.
+									and several other diverse skillsets.
 									<br>
 									<br>
 								</p>
@@ -105,7 +129,7 @@ website_header(); //This is the function to control all the header information.
 								<p>
 									With the technological advances, we are now able to work via the
 									internet from almost anywhere. This feat has enabled the ability
-									to work in both developed nations, and up and coming countries
+									to work in both developed nations, as well as up and comming countries
 									-- a core component in the common goal of connecting all people of the globe.
 									<br>
 								</p>

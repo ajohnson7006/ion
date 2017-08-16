@@ -15,8 +15,6 @@
               <ul class="alt">
                 <li><a href="#">Nascetur nunc varius</a></li>
                 <li><a href="#">Vis faucibus sed tempor</a></li>
-                <li><a href="#">Massa amet lobortis vel</a></li>
-                <li><a href="#">Nascetur nunc varius</a></li>
               </ul>
             </div>
             <div class="6u">
@@ -24,8 +22,6 @@
               <ul class="alt">
                 <li><a href="#">Nascetur nunc varius</a></li>
                 <li><a href="#">Vis faucibus sed tempor</a></li>
-                <li><a href="#">Massa amet lobortis vel</a></li>
-                <li><a href="#">Nascetur nunc varius</a></li>
               </ul>
             </div>
           </div>
@@ -33,8 +29,9 @@
         <div class="6u">
           <h2>Aliquam Interdum</h2>
           <p>
-            Blandit nunc tempor lobortis nunc non. Mi accumsan. Justo aliquet massa adipiscing cubilia eu accumsan id.
-            Arcu accumsan faucibus vis ultricies adipiscing ornare ut. Mi accumsan justo aliquet.
+            This is a paragraph with something to do about the company. </br>
+            This is a paragraph with something to do about the company. </br>
+            This is a paragraph with something to do about the company. </br>
           </p>
           <ul class="icons">
         <!--
@@ -48,9 +45,7 @@
         </div>
       </div>
       <ul class="copyright">
-        <li>&copy; Untitled. All rights reserved.</li>
-        <li>Design: <a href="http://templated.co">TEMPLATED</a></li>
-        <li>Images: <a href="http://unsplash.com">Unsplash</a></li>
+        <li>&copy; The Tech and Travel Group 2017. All rights reserved.</li>
       </ul>
     </div>
   </footer>
